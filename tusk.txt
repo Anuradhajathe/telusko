@@ -5,3 +5,6 @@ java
 c
 c#
 c++
+
+
+alomost known langiages..
